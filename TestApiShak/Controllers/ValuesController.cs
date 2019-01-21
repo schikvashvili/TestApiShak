@@ -24,6 +24,7 @@ namespace TestApiShak.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            string shako = "shako";
         }
 
         // PUT api/values/5
